@@ -270,8 +270,6 @@ Possible future enhancements:
 * Advanced statistical testing
 * Exporting reports to PDF
 
----
-
 ## License
 
 This project is open-source and available under the MIT License.
